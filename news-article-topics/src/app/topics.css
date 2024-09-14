@@ -1,0 +1,55 @@
+/* styles/topics.css */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    margin: 0;
+    padding: 0;
+  }
+  
+  h1 {
+    text-align: center;
+    color: #333;
+    margin-top: 20px;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 20px auto;
+    max-width: 800px;
+  }
+  
+  li {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: 10px 0;
+    padding: 15px;
+    transition: background-color 0.3s ease;
+  }
+  
+  li:hover {
+    background-color: #f1f1f1;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #0070f3;
+    font-weight: bold;
+  }
+  
+  a:hover {
+    color: #005bb5;
+  }
+  
+  /* Responsive Design */
+  @media (max-width: 600px) {
+    ul {
+      padding: 0 20px;
+    }
+  
+    li {
+      padding: 10px;
+    }
+  }
+  
