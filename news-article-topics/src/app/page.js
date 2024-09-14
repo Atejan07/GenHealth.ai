@@ -2,7 +2,7 @@ import Link from "next/link";
 
 export const metadata = {
   title: "Online Newspaper - Latest News",
-  description: "Stay updated with the latest news within the USA",
+  description: "Stay updated with the latest news within the USA.",
   keywords: "news, newspaper, online news, latest news",
 };
 
