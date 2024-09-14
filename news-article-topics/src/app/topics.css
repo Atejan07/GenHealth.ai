@@ -1,4 +1,3 @@
-/* styles/topics.css */
 body {
     font-family: Arial, sans-serif;
     background-color: #f9f9f9;
@@ -42,7 +41,6 @@ body {
     color: #005bb5;
   }
   
-  /* Responsive Design */
   @media (max-width: 600px) {
     ul {
       padding: 0 20px;
