@@ -32,7 +32,7 @@ export default async function Topic({ params }) {
     `https://newsapi.org/v2/top-headlines?country=us&apiKey=${apiKey}`
   );
   const data = await res.json();
-  const article = data.articles[id]; // Access specific article by index
+  const article = data.articles[id]; 
 
   if (!article) {
     return <h1>Article NOT found</h1>;
