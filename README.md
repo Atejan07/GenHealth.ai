@@ -17,8 +17,12 @@ https://newsapi.org/
 
 ## How would I leverage AI to enhance website content and interactive elements to drive lead generation?
 
-- Utilize AI tools to help generate summaries of the full articles, so people can just get the general idea of what is heppening instead of spending extra time on the full article.
+- Utilize AI tools to help generate summaries of the full articles, so people can just get the general idea of what is happening instead of spending extra time on the full article.
+
 - Use AI to dynamically adjust content on the homepage based on user interest.
+
 - Leverage AI to analyze and optimize content for search engines.
+
 - Allow users to personalize their experience by selecting topics of interest, which AI can then use to tailor content displayed.
-- Implement AI to create interactive visualization or infographics based on news data. For example, the stock market fell by a certain number of points, AI can generate a dynamic graph to visually represnt the data, making it more engaging and easier to understand for users.
+
+- Implement AI to create interactive visualization or infographics based on news data. For example, if the stock market fell by a certain number of points, AI can generate a dynamic graph to visually represent the data, making it more engaging and easier to understand for users.
