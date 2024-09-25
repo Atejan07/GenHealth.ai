@@ -18,7 +18,7 @@ export default async function TopicList() {
           {articles.map((article, index) => (
             <li key={index}>
               <Link href={`/topic/${index}`}>
-                {article.title}
+                {article.title}A
               </Link>
             </li>
           ))}
